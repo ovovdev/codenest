@@ -35,8 +35,7 @@ CodeNest 收集站长本人实际注册、使用过的服务的邀请码和优�
 <li><a href="{{ '/bcesim/' | relative_url }}">BC eSIM（Billion Connect）使用指南：邀请码 5UL9CWZG</a></li>
 <li><a href="{{ '/firsty/' | relative_url }}">Firsty 使用指南：看广告得免费流量，邀请码 SW77-2Y11</a></li>
 <li><a href="{{ '/sosim/' | relative_url }}">SoSIM 办理指南：香港储值卡与邀请码 SWGP455</a></li>
-<li><a href="{{ '/ctexcel-free/' | relative_url }}">CTExcel 免费 SIM 卡办理指南：邀请码 XESZBT</a></li>
-<li><a href="{{ '/ctexcel-uk/' | relative_url }}">CTExcel UK 办理指南：邀请码 OIFOAU</a></li>
+<li><a href="{{ '/ctexcel-free/' | relative_url }}">CTExcel 办理指南：邀请码 OIFOAU</a></li>
 </ul>
 
 ## 免责声明
