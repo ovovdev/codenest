@@ -36,6 +36,7 @@ CodeNest 收集站长本人实际注册、使用过的服务的邀请码和优�
 <li><a href="{{ '/firsty/' | relative_url }}">Firsty 使用指南：看广告得免费流量，邀请码 SW77-2Y11</a></li>
 <li><a href="{{ '/sosim/' | relative_url }}">SoSIM 办理指南：香港储值卡与邀请码 SWGP455</a></li>
 <li><a href="{{ '/ctexcel-free/' | relative_url }}">CTExcel 办理指南：邀请码 OIFOAU</a></li>
+<li><a href="{{ '/cellfie/' | relative_url }}">Cellfie 格鲁吉亚 eSIM 办理指南：0 元开卡与低成本保号</a></li>
 </ul>
 
 ## 免责声明
