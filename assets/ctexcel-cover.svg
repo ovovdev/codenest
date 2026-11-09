@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d111c"/>
+  <rect width="14" height="630" fill="#f5c542"/>
+  <text x="64" y="86" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700" fill="#f5c542">CTEXCEL 英国卡 · 中国电信欧洲官方</text>
+  <text x="60" y="232" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="104" font-weight="700" fill="#ffffff">英国卡怕被封号？</text>
+  <text x="60" y="344" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="82" font-weight="700" fill="#ffffff">这张官方中英卡，</text>
+  <text x="60" y="446" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="82" font-weight="700" fill="#f5c542">在大陆安心用</text>
+
+  <rect x="905" y="92" width="218" height="446" rx="30" fill="none" stroke="#7887a5" stroke-width="4"/>
+  <text x="935" y="168" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700" fill="#6ee7a0">+44 英国号</text>
+  <text x="941" y="298" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700" fill="#ffffff">大陆收码</text>
+  <text x="967" y="352" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="44" font-weight="700" fill="#f5c542">免费</text>
+  <text x="945" y="452" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="26" fill="#aab6cd">中英共享流量</text>
+
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#f0f4fa">
+    <rect x="64" y="496" width="290" height="64" rx="32" fill="none" stroke="#f5c542" stroke-width="3"/>
+    <text x="86" y="538">01  官方中英套餐</text>
+    <rect x="380" y="496" width="290" height="64" rx="32" fill="none" stroke="#f5c542" stroke-width="3"/>
+    <text x="402" y="538">02  国内激活教程</text>
+    <rect x="696" y="496" width="248" height="64" rx="32" fill="none" stroke="#f5c542" stroke-width="3"/>
+    <text x="718" y="538">03  90 天保号</text>
+  </g>
+  <text x="1010" y="600" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="26" font-weight="700" fill="#7887a5">CodeNest</text>
+</svg>
