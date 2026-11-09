@@ -6,7 +6,7 @@ permalink: /ctexcel-free/
 
 # 能在大陆安心用的英国卡：不怕封号，激活也不难
 
-![CTExcel：官方中英套餐，大陆安心用](/assets/ctexcel-cover.svg)
+![CTExcel：官方中英套餐，大陆安心用]({{ '/assets/ctexcel-cover.svg' | relative_url }})
 
 想弄一个英国手机号长期用的人，多半都纠结过同一件事：
 
